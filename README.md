@@ -5,7 +5,7 @@
 
 ##### Course website:<br/> http://laulima.hawaii.edu (for readings and assignments)
 
-##### Class time: Thursday, 1:30PM to 4:00 PM <br/>Location: Physical Sciences Building 310
+##### Class time: Thursday, 9AM to 11:00AM <br/>Location: Physical Sciences Building 310
 ---
 
 
@@ -98,4 +98,4 @@ If you have any challenges to learning and need support of any kind, you are inv
 
 
 
-** Important Note: This syllabus is tentative and may change. This is updated on Jan. 2nd, 2019.**
+** Important Note: This syllabus is tentative and may change. This is updated on January 2020.**
